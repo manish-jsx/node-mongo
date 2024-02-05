@@ -1,6 +1,4 @@
-Certainly! To add screenshots to your README.md file, you can follow the template below:
 
-```markdown
 # Node.js and MongoDB Integration
 
 This project demonstrates a basic Node.js server with an endpoint "/api/users" that connects to a MongoDB database and returns a JSON list of all users. The MongoDB database contains a collection named 'users' with fields such as 'name', 'email', and 'age'.
