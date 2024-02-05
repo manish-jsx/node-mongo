@@ -56,13 +56,4 @@ This project demonstrates a basic Node.js server with an endpoint "/api/users" t
 ![Screenshot 2](output-screenshots/screenshot2.png)
 *api requests on Postman*
 
-## Contributing
 
-If you'd like to contribute, please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Ensure that you have a folder named `screenshots` in your project directory and replace `screenshot1.png` and `screenshot2.png` with the actual file names of your screenshots. Additionally, provide relevant captions for each screenshot.
